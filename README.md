@@ -16,3 +16,8 @@
 * Valide o body da requisição
 * Utilize Design Patterns
 
+### Aplicando o teste
+* Faça o fork desse repositório
+* Abra um Pull Request para que eu possa avaliar.
+
+PS: Lembrando que a ideia é testar seus conhecimentos, então não precisa estar perfeito.
